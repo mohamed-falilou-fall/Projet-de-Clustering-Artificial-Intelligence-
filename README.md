@@ -1,2 +1,6 @@
 # Projet-de-Clustering-Artificial-Intelligence-
 PROJET DE CLUSTERING ET ANALYSE SPATIALE DES MOUVEMENTS HUMAINS À PARTIR DE DONNÉES BIOMÉCANIQUES EN 3 DIMENSIONS (3D) PAR MOHAMED FALILOU FALL
+
+Ce projet vise à analyser les mouvements humains en utilisant des données biomécaniques recueillies en trois dimensions (3D). L'objectif principal est de développer des techniques de clustering pour identifier des motifs de mouvement et d'analyser spatialement les comportements humains dans divers contextes. Cette approche pourrait avoir des applications significatives dans le domaine de la santé, du sport, de la réhabilitation, et même de la sécurité publique.
+Ce projet vise à analyser les mouvements humains en utilisant des données biomécaniques recueillies en trois dimensions (3D). L'objectif principal est de développer des techniques de clustering pour identifier des motifs de mouvement et d'analyser spatialement les comportements humains dans divers contextes. Cette approche pourrait avoir des applications significatives dans le domaine de la santé, du sport, de la réhabilitation, et même de la sécurité publique.
+Compétences : Machine learning · Intelligence artificielle (IA) · Data science · Biomécanique · Géomatique · Analyse spatiale
